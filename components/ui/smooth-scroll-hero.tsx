@@ -151,7 +151,7 @@ const SmoothScrollHero: React.FC<SmoothScrollHeroProps> = ({
               size="xxl"
               className="font-bold text-xl tracking-wide px-12 py-4 bg-gray-900 hover:bg-gray-800 text-white border-2 border-gray-900 hover:scale-105 transition-all duration-300"
             >
-              JOIN WADADA NOW
+              <a href="https://wa.me/62895341936712">Contact Me!</a>
             </LiquidButton>
 
             {/* Trust Indicators */}
